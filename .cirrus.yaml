@@ -1,0 +1,4 @@
+docker_builder:
+  platform: windows
+  os_version: "2019"
+  script: python --version
